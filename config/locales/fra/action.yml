@@ -1,0 +1,12 @@
+fra:
+  labels:
+    natuition_incoming_data_exchange: "Trajets GPS et données du robot"
+    natuition_outgoing_data_exchange: ""
+    natuition_short_description: Robot desherbeur autonome
+    natuition_long_description: Robot desherbeur autonome
+    natuition_url: https://natuition.com/
+    sync_natuition_rides: "Synchroniser les trajets Natuition"
+    error_during_rides_synchronization: "Une erreur est survenue lors de la synchronisation des trajets : %{message}"
+    iban_should_be_provided: "Pour synchroniser les trajets."
+    natuition_rides_synchronizing: "La synchronisation des trajets est en cours. Une notification vous sera envoyée dès qu'elle sera terminée."
+    natuition_rides_synchronized: "Les trajets ont bien été synchronisés."
